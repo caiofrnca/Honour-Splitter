@@ -2,6 +2,7 @@
 SaaS to split the cost of trips - Java backend and a REACT Native mobile application front end.
 
 Cloud Based Web Applications
+
 ● MLO 1. Assess the limitations of static Web solution and design dynamic application
 using a variety of industry standard Web application APIs, libraries and technologies to
 provide a high quality interactive experience for a target user base
@@ -21,13 +22,17 @@ services.
 to CCT Validation Submission of Higher Diploma in Science in Computing – 75ECTS
 148 provide the maximum user experience with considerations to the maintenance and
 testing of the developed solution
+
 Mobile Development
+
 ● MLO 3. Implement intelligent user interfaces using the Model-View-Controller (MVC)
 design pattern.
 ● MLO 4. Analyse a given client brief to develop an interactive mobile application that
 utilises the device sensors and appropriate storage capabilities while situating the result
 in a user-focused design.
+
 Algorithms & Constructs
+
 ● MLO 1. Identify and select appropriate algorithms and constructs for a given real-world
 problem by differentiating between the complexity, scalability and efficiency of different
 candidate solutions.
